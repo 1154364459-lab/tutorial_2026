@@ -16,4 +16,4 @@ source("condon/add_numbers.R")
 add_numbers(3,4)
 
 #在snippet配置了ad 输入后按Tab即可快速调动函数add_numbers
-add_numbers()
+add_numbers(x，y)
